@@ -5,3 +5,4 @@ siri 14 21  Female 12344
 abhi 15 22  Male   23333
 Raj  12 23  Male   23232
 KrishnamRaj Male   25252
+My Solution Female 100000
