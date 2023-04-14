@@ -23,6 +23,7 @@ if [ $file5 > 12300 ]
 then
 echo "Some one geting a salary more than the -\12300"
 else
+echo""
 echo "All are geting a same salary"
 fi
 
